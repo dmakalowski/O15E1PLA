@@ -1,4 +1,4 @@
-// O15E1PLA.cpp : This is a solution for XV IT Olympiad task: Plakatowanie.
+// o15e1pla.cpp : This is a solution for XV IT Olympiad task: Plakatowanie.
 // It mainly works on a principle that we need a new poster every time there is a building higher than its neighbour or if the builing is the lowest since start.
 //
 
